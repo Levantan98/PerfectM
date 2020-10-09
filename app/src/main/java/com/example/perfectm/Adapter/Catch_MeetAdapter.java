@@ -147,7 +147,7 @@ public class Catch_MeetAdapter extends RecyclerView.Adapter<Catch_MeetAdapter.Ca
             //if you need three fix imageview in width
             int devicewidth = displaymetrics.widthPixels;
             //if you need 4-5-6 anything fix imageview in height
-            int deviceheight = (displaymetrics.heightPixels) - (displaymetrics.heightPixels) / 2;
+            int deviceheight = (displaymetrics.heightPixels) - (displaymetrics.heightPixels) / 3;
             // layout.getLayoutParams().width = devicewidth;
             //if you need same height as width you can set devicewidth in holder.image_view.getLayoutParams().height
             layout.getLayoutParams().height = deviceheight;
