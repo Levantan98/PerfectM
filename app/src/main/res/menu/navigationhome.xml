@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_compass"
+        android:icon="@drawable/compass3"
+        android:iconTint="@color/colornavi"
+        android:title="@null" />
+
+    <item
+        android:id="@+id/navigation_doublecard"
+        android:icon="@drawable/doublecard"
+        android:title="@null" />
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/chat3"
+        android:title="@null" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/user3"
+        android:title="@null" />
+</menu>

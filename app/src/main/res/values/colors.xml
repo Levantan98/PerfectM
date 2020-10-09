@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F97582</color>
+    <color name="colorPrimaryDark">#F4F4F4</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colornavi">#F97582</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="color_home_stt_bar">#DCFFFCFC</color>
+    <color name="login_status_bar">#ED7D7D</color>
+    <color name="gray">#C5BABA</color>
+    <color name="color_bg_share">#D1D0D0</color>
+    <color name="during">#00FFFFFF</color>
+    <color name="gradient">#94000000</color>
+</resources>

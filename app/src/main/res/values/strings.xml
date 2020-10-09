@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PerfectM</string>
+    <string name="facebook_app_id">794575828013900</string>
+    <string name="fb_login_protocol_scheme">fb242238417038850</string>
+    <string name="text_btnLoginFacebook">Continue with facebook</string>
+    <string name="text_btnLoginGoogle">Continue with Google</string>
+    <string name="title">We will never post anythings</string>
+    <string name="text_btnSignUp">Sign up with phone</string>
+    <string name="title2">Already have an account?</string>
+    <string name="text_txtSignIn">
+<u>Sign in</u>
+</string>
+    <string name="recently">Gần đây</string>
+    <string name="catchmeet">Bắt gặp</string>
+    <string name="chat">Chat</string>
+    <string name="brief">Hồ Sơ</string>
+    <string name="title_mybody">Về tôi</string>
+    <string name="title_hobbies">Yêu thích</string>
+    <string name="title_search">Tìm Kiếm</string>
+    <string name="title_filt"> Chọn lọc</string>
+    <string name="title_display">Hiển Thị</string>
+    <string name="text_male">Nữ</string>
+    <string name="text_female">Nam</string>
+    <string name="text_both">Cả hai</string>
+    <string name="title_age">Tuổi</string>
+    <string name="text_distance">Khoảng cách</string>
+</resources>

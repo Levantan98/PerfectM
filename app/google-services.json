@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163061027262",
+    "firebase_url": "https://perfectm-1e800.firebaseio.com",
+    "project_id": "perfectm-1e800",
+    "storage_bucket": "perfectm-1e800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163061027262:android:138ab843e5a3b2c2ff69ef",
+        "android_client_info": {
+          "package_name": "com.example.perfectm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163061027262-jc28qlhtdentnr69ffkr7df45ar4reo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVH1TEaETPvJLPFpvANrMjuC8AUCxYl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163061027262-jc28qlhtdentnr69ffkr7df45ar4reo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
